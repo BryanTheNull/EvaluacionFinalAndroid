@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">EvaluacionFinalAndroid</string>
+
+    <string-array name="difficulty_options">
+        <item>Basico</item>
+        <item>Intermedio</item>
+        <item>Avanzado</item>
+    </string-array>
+
+    <string-array name="category_options">
+        <item>Lenguajes de Programación</item>
+        <item>Desarrollo Web</item>
+        <item>Base de Datos</item>
+        <item>Inteligencia Artificial</item>
+        <item>Desarrollo de Aplicaciones Móviles</item>
+        <item>Ciberseguridad</item>
+        <item>Marketing Digital</item>
+        <item>Gestión de Proyectos</item>
+        <item>Diseño Gráfico</item>
+        <item>Animación y Modelado 3D</item>
+        <item>IoT (Internet de las Cosas)</item>
+    </string-array>
+
+    <string-array name="duration_options">
+        <item>1 Hora</item>
+        <item>2 Horas</item>
+        <item>3 Horas</item>
+        <item>5 Horas</item>
+        <item>1 Día</item>
+        <item>2 Días</item>
+        <item>1 Semana</item>
+        <item>2 Semanas</item>
+        <item>1 Mes</item>
+        <item>3 Meses</item>
+    </string-array>
+
+</resources>
